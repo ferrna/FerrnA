@@ -14,7 +14,7 @@
 Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna duda o quisieras charlar.
 <hr/>
 
- [Portfolio personal](https://fernandoarriondo.com/)
+<p>Portfolio: https://fernandoarriondo.com/</p>
 <br/>
 </p>
 </div>
