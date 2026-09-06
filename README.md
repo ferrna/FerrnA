@@ -15,15 +15,12 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 <hr/>
 
 <p>Portfolio: https://fernandoarriondo.com/</p>
-<br/>
 </p>
 </div>
 
 <span>
-<a href="https://www.linkedin.com/in/farriondo/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"></a> &nbsp;
 <p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
-<a href="mailto:arriondovfernando@gmail.com"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png"></a>
-<p>Gmail: arriondovfernando@gmail.com</p>
+<p>Email: arriondovfernando@gmail.com</p>
 </span>
 
 <br/>
