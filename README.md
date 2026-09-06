@@ -2,7 +2,7 @@
 ### Hello there!
 <div>
 <p align="left">
-👋 Hi there! I'm Fernando Arriondo, a dedicated Junior Web Developer with a focus on crafting responsive, user-friendly web applications. Over the past year, I've honed my skills in both front-end and back-end development, building full-stack solutions that solve real-world problems.
+👋 Hi there! I'm Fernando Arriondo, a dedicated Web Developer with a focus on crafting responsive, user-friendly web applications. Over the past year, I've honed my skills in both front-end and back-end development, building full-stack solutions that solve real-world problems.
 
 🔧 Technologies I work with:
 
@@ -14,7 +14,7 @@
 💡 I’m passionate about continuous learning and love collaborating with others to bring ideas to life. Check out my repos for some cool projects and feel free to connect if you want to chat or collaborate!
 <hr/>
 
- 💻💎[MI PORTFOLIO!](https://ferrna.github.io/Portfolio)
+ 💻💎[MI PORTFOLIO!](https://fernandoarriondo.com/)
 
 <br/>
 </div>
