@@ -14,6 +14,7 @@
 Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna duda o quisieras charlar.
 <hr/>
 
+### Info
 <p>Portfolio: https://fernandoarriondo.com/</p>
 </p>
 </div>
@@ -42,6 +43,7 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 💡 I’m passionate about continuous learning and love collaborating with others to bring ideas to life. Check out my repos for some cool projects and feel free to connect if you want to chat or collaborate!
 <hr/>
 
+### Info
 <p>Portfolio: https://fernandoarriondo.com/</p>
 </p>
 </div>
