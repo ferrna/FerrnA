@@ -14,7 +14,7 @@
 Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna duda o quisieras charlar.
 <hr/>
 
- [Mi portfolio con mis proyectos más recientes](https://fernandoarriondo.com/)
+ [Mi portfolio, con mis proyectos más recientes](https://fernandoarriondo.com/)
 
 </p>
 </div>
