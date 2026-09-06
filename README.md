@@ -28,10 +28,10 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 <br/>
 <hr/>
 
-### Hello there!
+### Hello!
 <div>
 <p align="left">
-👋 Hello! I'm Fernando Arriondo, a dedicated Web Developer from SANTA FE, Argentina working Remotely. Over the past 3 years of experience, I've honed my skills in both front-end and back-end development, building full-stack solutions that solve real-world problems.
+👋 I'm Fernando Arriondo, a dedicated Web Developer from SANTA FE, Argentina working Remotely. Over the past 3 years of experience, I've honed my skills in both front-end and back-end development, building full-stack solutions that solve real-world problems.
 
 🔧 Technologies I work with:
 
