@@ -11,20 +11,19 @@
     Cloud & Tools: AWS, Docker
 
 💡 Soy apasionado por el aprendizaje continuo y la colaboración con otros para traer ideas a la realidad.
-Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes algunas duda o quisieras charlar.
+Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna duda o quisieras charlar.
 <hr/>
 
  [Mi portfolio con mis proyectos más recientes](https://fernandoarriondo.com/)
 
-<br/>
 </p>
 </div>
 
 <span>
-<p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
 <a href="https://www.linkedin.com/in/farriondo/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"></a> &nbsp;
-<p>Gmail: arriondovfernando@gmail.com</p>
+<p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
 <a href="mailto:arriondovfernando@gmail.com"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png"></a>
+<p>Gmail: arriondovfernando@gmail.com</p>
 </span>
 
 
