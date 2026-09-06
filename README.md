@@ -6,10 +6,10 @@
 
 🔧 Technologies I work with:
 
-    Front-end: JavaScript, TypeScript, React, Next.js, Tailwind CSS
-    Back-end: Node.js, Java, Spring Boot
-    Databases: PostgreSQL, MySQL, Firebase
-    Cloud & Tools: AWS, Vercel, Docker, Git
+    Front-end: TypeScript, React, Next.js
+    Back-end: Node.js, Java, Laravel, Wordpress
+    Databases: PostgreSQL, MySQL, Redis
+    Cloud & Tools: AWS, Docker
 
 💡 I’m passionate about continuous learning and love collaborating with others to bring ideas to life. Check out my repos for some cool projects and feel free to connect if you want to chat or collaborate!
 <hr/>
