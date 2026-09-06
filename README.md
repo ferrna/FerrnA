@@ -19,7 +19,6 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 </div>
 
 <span>
-<p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
 <p>Email: arriondovfernando@gmail.com</p>
 </span>
 
@@ -48,7 +47,6 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 </div>
 
 <span>
-<p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
 <p>Email: arriondovfernando@gmail.com</p>
 </span>
 
