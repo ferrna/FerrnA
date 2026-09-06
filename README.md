@@ -43,17 +43,13 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 💡 I’m passionate about continuous learning and love collaborating with others to bring ideas to life. Check out my repos for some cool projects and feel free to connect if you want to chat or collaborate!
 <hr/>
 
- [My portfolio](https://fernandoarriondo.com/)
-
-<br/>
+<p>Portfolio: https://fernandoarriondo.com/</p>
 </p>
 </div>
 
 <span>
-<p>LinkedIn Profile: https://www.linkedin.com/in/farriondo/</p>
-<a href="https://www.linkedin.com/in/farriondo/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"></a> &nbsp;
-<p>Gmail: arriondovfernando@gmail.com</p>
-<a href="mailto:arriondovfernando@gmail.com"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png"></a>
+<p>LinkedIn: https://www.linkedin.com/in/farriondo/</p>
+<p>Email: arriondovfernando@gmail.com</p>
 </span>
 
 
