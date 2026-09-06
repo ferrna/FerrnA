@@ -1,7 +1,7 @@
 ### Hola!
 <div>
 <p align="left">
-👋 Me llamo Fernando Arriondo, soy un desarrollador web dedicado de Santa Fe, Argentina, y actualmente trabajo de forma remota. Con 3 años de experiencia, he desarrollado y fortalecido mis habilidades tanto en front-end como en back-end, participando en proyectos de diversa índole.
+👋 Soy Fernando Arriondo, un desarrollador web dedicado de Santa Fe, Argentina. Con 3 años de experiencia, he desarrollado y fortalecido mis habilidades tanto en front-end como en back-end, participando en proyectos de diversa índole.
     
 🔧 Tecnologías con las que trabajo:
 
@@ -14,8 +14,8 @@
 Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna duda o quisieras charlar.
 <hr/>
 
- [Mi portfolio, con mis proyectos más recientes](https://fernandoarriondo.com/)
-
+ [Mi portfolio personal](https://fernandoarriondo.com/)
+<br/>
 </p>
 </div>
 
@@ -28,8 +28,8 @@ Toma un vistazo a mis repos y no dudes en ponerte en contacto si tienes alguna d
 
 <br/>
 <br/>
-
-
+<br/>
+<hr/>
 
 ### Hello there!
 <div>
